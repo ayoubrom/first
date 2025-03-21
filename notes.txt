@@ -1,1 +1,3 @@
 hi this is notes for my project
+and Learning git 
+using snake game 
